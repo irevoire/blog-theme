@@ -1,4 +1,4 @@
-base_url = "https://zola-sam.janbaudisch.dev"
+base_url = "."
 title = "Sam"
 
 compile_sass = true
