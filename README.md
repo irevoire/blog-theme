@@ -1,5 +1,5 @@
-[![Build Status][build-img]][build-url]
-[![Demo][demo-img]][demo-url]
+# This repository is a fork of the zola-sam theme: https://github.com/janbaudisch/zola-sam
+
 
 # Sam
 
